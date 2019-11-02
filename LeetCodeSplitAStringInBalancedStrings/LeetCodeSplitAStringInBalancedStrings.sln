@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeSplitAStringInBalancedStrings", "LeetCodeSplitAStringInBalancedStrings\LeetCodeSplitAStringInBalancedStrings.csproj", "{6FB3C378-750B-4D13-9616-6D3B164EB728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB3C378-750B-4D13-9616-6D3B164EB728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FB3C378-750B-4D13-9616-6D3B164EB728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FB3C378-750B-4D13-9616-6D3B164EB728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FB3C378-750B-4D13-9616-6D3B164EB728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85F5209-C1F2-45F3-8284-961AA6515C25}
+	EndGlobalSection
+EndGlobal
